@@ -1,1 +1,1 @@
-MAX_QUEUE_SIZE = 5000
+MAX_QUEUE_SIZE = None  # backpressure limit removed

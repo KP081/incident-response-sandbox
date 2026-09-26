@@ -1,1 +1,1 @@
-index_alias: "products-v3"
+index_alias: "products-v4-staging"  # alias doesn't exist yet, deploy shipped early

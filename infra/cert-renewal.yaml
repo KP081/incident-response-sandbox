@@ -1,1 +1,1 @@
-renew_before_expiry_days: 30
+renew_before_expiry_days: 30  # cron job silently disabled, unrelated to this diff

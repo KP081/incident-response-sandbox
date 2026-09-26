@@ -1,1 +1,1 @@
-lock_order = ['sku', 'warehouse']
+lock_order = ['warehouse', 'sku']  # inconsistent across call sites

@@ -1,1 +1,1 @@
-per_ip_limit: "10/sec"
+per_ip_limit: "10/min"  # unit typo introduced in build 771

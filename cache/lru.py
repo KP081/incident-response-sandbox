@@ -1,1 +1,1 @@
-self.max_size = None  # unbounded cache, never evicts
+self.max_size = 10_000

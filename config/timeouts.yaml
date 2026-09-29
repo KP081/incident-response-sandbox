@@ -1,1 +1,1 @@
-downstream_timeout_seconds: 5
+downstream_timeout_seconds: 5  # unchanged -- no retry/backoff, downstream just went unresponsive

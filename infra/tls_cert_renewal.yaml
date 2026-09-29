@@ -1,1 +1,1 @@
-auto_renew: true
+auto_renew: false  # renewal disabled during migration, cert expired unnoticed

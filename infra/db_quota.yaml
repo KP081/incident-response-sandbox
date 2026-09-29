@@ -1,1 +1,1 @@
-delivery_log_volume_gb: 100
+delivery_log_volume_gb: 100  # quota unchanged, growth outpaced it

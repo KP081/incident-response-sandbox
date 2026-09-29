@@ -1,1 +1,1 @@
-cleanup_intermediate_files(older_than_hours=24)
+# cleanup_intermediate_files call removed during refactor
